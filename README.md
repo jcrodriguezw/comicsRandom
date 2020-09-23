@@ -2,7 +2,7 @@ This project was created with React JS and Material-UI
 
 ## Download
 
-You can clone this repository into your desktop, <br/> 
+You can clone this repository https://github.com/jcrodriguezw/comicsRandom.git <br/> 
 open the project directory in the terminal and run yarn install
 
 ## Available Scripts

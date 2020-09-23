@@ -109,6 +109,7 @@ function Home(props) {
               start = {0}
               stop = {5}
               fractions = {2}
+              readonly={true}
               initialRating = {c.level/2}
               emptySymbol={<img src='/emptyStar.svg'  width="15.64px" height="15.64px"/>}
               fullSymbol={<img src='/FilledStar.svg'  width="15.64px" height="15.64px"/>}
